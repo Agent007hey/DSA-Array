@@ -35,6 +35,8 @@ This repository was created to practice and understand:
  
 ## ⏱️ Time Complexity
 
+ ## Time Complexity Analysis
+
 | Algorithm | Time Complexity |
 |-----------|----------------|
 | Linear Search | O(n) |
@@ -43,29 +45,34 @@ This repository was created to practice and understand:
 | Find Minimum Element | O(n) |
 | Calculate Average | O(n) |
 | Count Occurrences | O(n) |
-| Find Second Largest | O(n) |
+| Find Second Largest Element | O(n) |
 | Reverse Array | O(n) |
-
+| Find Largest & Smallest Element (Single Traversal) | O(n) |
+| Check if Array is Palindrome | O(n) |
+| Count Even and Odd Numbers | O(n) |
+| Find Missing Element in Sorted Array | O(n) |
 ## 🚀 How to Run
 
-1. Clone the repository
+ ## How to Run
 
-bash
- https://github.com/Agent007hey/DSA-Array.git
+### 1. Clone the Repository
 
+```bash
+git clone https://github.com/Agent007hey/DSA-Array.git
+```
 
-2. Navigate to the project directory
+### 2. Navigate to the Project Directory
 
-bash
-cd  DSA-Array
+```bash
+cd DSA-Array
+```
 
+### 3. Compile and Run Any Java File
 
-3. Compile and run any Java file
-
- 
+```bash
 javac FileName.java
 java FileName
-
+```
 
 ## 🌱 Learning Outcomes
 
